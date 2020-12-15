@@ -1,4 +1,5 @@
 from numpy import*
 def num():
 	pass
-
+def nump():
+	pass
